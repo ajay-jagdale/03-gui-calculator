@@ -1,0 +1,36 @@
+body {
+    background-color: silver !important;
+}
+
+form {
+    background-color: gray;
+    box-shadow: 5px 5px 5px 5px rgb(173, 163, 163);
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+input {
+    border-color: #000000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 0;
+}
+
+input:focus {
+    outline: none;
+}
+
+.btn {
+    font-size: 30px !important;
+    margin-left: 10px;
+    width: 50px;
+    color: black !important;
+    background-color: #fff !important;
+}
