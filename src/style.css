@@ -4,7 +4,7 @@ body {
 }
 
 form {
-    background-color: silver !important;
+    background-color: rgb(236, 12, 12) !important;
     box-shadow: 5px 5px 5px 5px rgb(173, 163, 163);
     border: 2px solid black;
     margin-top: 50px;
